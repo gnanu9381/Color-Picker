@@ -44,8 +44,10 @@
     font-family: "Open Sans";
     font-size: 25px;
     font-weight: bold;
-    border-radius: 8px;
+    border-radius: 25px;
     padding: 16px;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 .span-class-edit {
