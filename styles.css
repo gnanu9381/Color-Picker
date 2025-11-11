@@ -1,0 +1,53 @@
+.button-1 {
+    background-color: #e0e0e0;
+}
+
+.button-2 {
+    background-color: #6fcf97;
+}
+
+.button-3 {
+    background-color: #56ccf2;
+}
+
+.button-4 {
+    background-color: #bb6bd9;
+}
+
+.color-picker-bgcontainer {
+    background-color: #ffffff;
+    height: 100vh;
+}
+
+
+
+.heading-edit {
+    font-family: "Open Sans";
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.button {
+    font-family: "Open Sans";
+    font-size: 15px;
+    width: 100px;
+    height: 100px;
+    border-width: 4px;
+    border-color: black;
+    border-radius: 20px;
+    margin-bottom: 12px;
+}
+
+.text-edit {
+    background-color: #222222;
+    color: white;
+    font-family: "Open Sans";
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 16px;
+}
+
+.span-class-edit {
+    color: #49a6e9;
+}
